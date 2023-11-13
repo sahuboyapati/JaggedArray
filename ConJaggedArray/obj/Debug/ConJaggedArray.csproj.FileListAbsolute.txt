@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\bin\Debug\ConJaggedArray.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\bin\Debug\ConJaggedArray.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\bin\Debug\ConJaggedArray.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\obj\Debug\ConJaggedArray.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\obj\Debug\ConJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\obj\Debug\ConJaggedArray.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day5\ConJaggedArray\ConJaggedArray\obj\Debug\ConJaggedArray.pdb
